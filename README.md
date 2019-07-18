@@ -1,12 +1,9 @@
-# karate-test
+# Resource Hub Acceptance Tests
 
 ## Setup
 
-* Maven should be installed
-* clone/copy project
+* Maven is required
 
 ## Running tests
 
-* cd to project folder
-
-* run `mvn clean test -Dkarate.env="local" -Dcucumber.options=" --tags @tag"`
+* when in project folder, run `mvn clean test -Dkarate.env="local" -Dcucumber.options=" --tags @tag"`
