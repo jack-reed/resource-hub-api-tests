@@ -1,4 +1,4 @@
-package example;
+package bookingApi;
 
 import com.intuit.karate.cucumber.CucumberRunner;
 import com.intuit.karate.cucumber.KarateStats;

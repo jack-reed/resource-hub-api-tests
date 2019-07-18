@@ -85,7 +85,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>example.KarateRunner</mainClass>
+                            <mainClass>bookingApi.Runner</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
